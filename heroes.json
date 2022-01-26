@@ -1,0 +1,54 @@
+{
+  "heroes": [
+    {
+      "id": "ab35299f-5cc1-44f9-b602-9bc4e0db836c",
+      "name": "Valir",
+      "description": "Наношу массовый урон",
+      "element": "wind"
+    },
+    {
+      "id": "189b68c1-cecb-4a6a-8733-da45970412d4",
+      "name": "Gvinevra",
+      "description": "Замораживает врагов",
+      "element": "water"
+    },
+    {
+      "id": "3a74d0f2-3674-41f0-bf9f-08ebb0cb4a97",
+      "name": "Семен",
+      "description": "dsdsgf",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "id": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "id": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "id": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
